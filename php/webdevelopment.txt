@@ -1,0 +1,6 @@
+HTML = Hyper Text Markup Language
+CSS = Cascading Style Sheets
+JS= Java Script
+PHP = PHP Hypertext Preprocessor
+XML = EXtensible Markup Language
+AJAX = Asynchronous JavaScript and XML
