@@ -8,8 +8,8 @@
 <body>
 <?php
 $servername = "localhost";
-$username = "yethu";
-$password = "yethu";
+$username = "default";
+$password = "default";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password);
